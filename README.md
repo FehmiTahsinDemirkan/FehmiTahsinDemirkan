@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fehmi Tahsin Demirkan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
